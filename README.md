@@ -1,9 +1,9 @@
 ## Olá, eu sou o Claudinei Ferreira.
 
- <div>
-  <a href="https://github.com/claudinei-ferreira">
+ <div>  
   <img height="200em" width="370em" src="https://github-readme-stats.vercel.app/api?username=claudinei-ferreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="200em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudinei-ferreira&layout=compact&langs_count=7&theme=github_dark"/>
+
 </div>
 <div style="display: inline_block"><br>
   <code><img align="center" alt="Claudinei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
@@ -15,7 +15,7 @@
   <code><img align="center" alt="Claudinei-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></code>
   <code><img align="center" alt="Claudinei-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
   <code><img align="center" alt="Claudinei-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img align="center" alt="Claudinei-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
+  
 </div>
  <br>
 <div>
