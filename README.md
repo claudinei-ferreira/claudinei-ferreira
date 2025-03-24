@@ -6,6 +6,7 @@
 
 </div>
 <div style="display: inline_block"><br>
+  <code><img align="center" alt="Claudinei-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
   <code><img align="center" alt="Claudinei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
   <code><img align="center" alt="Claudinei-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>
   <code><img align="center" alt="Claudinei-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
