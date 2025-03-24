@@ -12,7 +12,8 @@
   <code><img align="center" alt="Claudinei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Claudinei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Claudinei-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-  <code><img align="center" alt="Claudinei-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></code>
+  <code><img align="center" alt="Claudinei-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></code>
+  <code><img align="center" alt="Claudinei-Livewire" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg"></code>
   <code><img align="center" alt="Claudinei-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
   <code><img align="center" alt="Claudinei-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
   
